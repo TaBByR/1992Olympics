@@ -1,8 +1,8 @@
-# 🎯 Gamified Quiz SPA
+# 🎯 Gamified Quizz SPA
 
 ## 📝 Project Description
 
-Welcome to the **Gamified Quiz SPA**! This was the final project of the Code For All Fullstack Programming Bootcamp, done in a 24-hour hackathon. Inspired by the iconic song "Barcelona" by Freddie Mercury & Montserrat Caballé, performed at the 1992 Olympic Games.
+This was the final project of the Code For All Fullstack Programming Bootcamp, done in a 24-hour hackathon. Inspired by the iconic song "Barcelona" by Freddie Mercury & Montserrat Caballé, performed at the 1992 Olympic Games.
 ## 🚀 Technologies Used
 
 - **JavaScript**
@@ -19,9 +19,9 @@ To run this project locally:
    ```
 2. Open the project folder in [Visual Studio Code](https://code.visualstudio.com/).
 3. Install the [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver).
-4. Open Live server's settings
+4. Open Live Server's settings
 5. Type "index.html" under "When set, serve this file (server root relative) for every 404 (useful for single-page applications)"
-6. start Live Server.
+6. Start Live Server.
 
 ## 🤝 Group Members
 
